@@ -1,4 +1,4 @@
-from ccflow_redis import *  # noqa
+from ccflow_redis import *
 
 
 def test_all():
